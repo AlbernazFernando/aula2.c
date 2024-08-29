@@ -16,5 +16,4 @@ void main(){
     else{
         printf("não ta podendo votar");
     }
-  return 0;
 }
