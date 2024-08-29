@@ -12,5 +12,4 @@ void main(){
     else{
         printf("nao e maior que 10");
     }
-    return 0;
-}
+   }
