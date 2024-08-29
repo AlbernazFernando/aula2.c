@@ -12,6 +12,6 @@ void main(){
     else{
         printf("é negativo");
     }
-    return 0;
+    
     
 }
